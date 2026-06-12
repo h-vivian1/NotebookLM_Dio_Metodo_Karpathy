@@ -31,6 +31,9 @@ Durante a jornada com o NotebookLM, extrair conhecimento técnico profundo exigi
 
 ## 📖 Miniguia de Estudo (Entrega Final)
 
+<img width="609" height="549" alt="{44C05576-F782-4636-89AF-A14515946901}" src="https://github.com/user-attachments/assets/7942b708-ccc7-469f-920b-743e82589630" />
+
+
 ### 1. Resumo Estruturado: A Gênese do LLM OS e a Memória Persistente
 O LLM OS (Sistema Operacional de LLM) é um novo paradigma computacional no qual os Grandes Modelos de Linguagem atuam como a unidade central de processamento (CPU). Nesse modelo de **Software 3.0**, a programação ocorre via linguagem natural, os pesos pré-treinados da rede neural funcionam como a lógica e as ferramentas de software atuam como periféricos.
 
