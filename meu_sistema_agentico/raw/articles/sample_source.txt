@@ -1,0 +1,4 @@
+TITLE: The Shift to Software 3.0
+AUTHOR: A. Karpathy (Simulated)
+DATE: 2024-05-10
+CONTENT: In Software 1.0 we wrote procedural code. In Software 2.0 we trained neural networks by defining architectures and collecting datasets. In Software 3.0, we orchestrate Large Language Models (LLMs) as central processors with complex memory hierarchies, tool use capabilities, and autonomous loops. The context window acts as the new RAM, requiring sophisticated cache management strategies to prevent attention degradation while maintaining high throughput.
